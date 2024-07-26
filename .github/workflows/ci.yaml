@@ -32,7 +32,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: PierryMedeiros/fc2.0-ci-go:latest
+          tags: pierrymedeiros/fc2.0-ci-go:latest
 
       
 
